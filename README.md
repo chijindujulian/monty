@@ -1,6 +1,6 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ---
-![Tea](https://https://github.com/chijindujulian/monty/blob/master/src/makeTea.png)
+![Tea](https://github.com/chijindujulian/monty/blob/master/src/makeTea.png)
 
 ### Description
 This is an ALX project to create a custom ByteCode interpreter for the Monty Language, developed in C.
